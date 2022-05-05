@@ -1,4 +1,4 @@
-# Video_Games_ReviewsVSCopies_Sold
+# Video_Games-ReviewsVSCopies_Sold
 
 ### Selected Topic
 See if there is a relationship between a video games user/critic ratings and how many copies it ends up selling.
