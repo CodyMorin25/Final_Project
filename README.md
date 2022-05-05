@@ -1,4 +1,4 @@
-# Predicting_Furture_Video_Game_Sales
+# Video_Games_ReviewsVSCopies_Sold
 
 ### Selected Topic
 See if there is a relation shipbetween a video games user/critic ratings and how many copies it ends up selling.
