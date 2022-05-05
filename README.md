@@ -1,7 +1,7 @@
 # Video_Games_ReviewsVSCopies_Sold
 
 ### Selected Topic
-See if there is a relation shipbetween a video games user/critic ratings and how many copies it ends up selling.
+See if there is a relationship between a video games user/critic ratings and how many copies it ends up selling.
 
 ### Reason
 Selected this topic because as a video gamer there are many factors that goes into what makes a video game sell. It can be because of who made the game, all of the teasers released to increases hype, the genre of the game, what platforms it is available on , etc. Pridicting how well a game is going to sell and if it any good to begin with is very diffucult but with this analysis I hope to see if there is a relationship with a games review ratings and how many copies of that game will sell.
