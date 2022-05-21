@@ -13,4 +13,4 @@ The data is from a .csv file abtained from kaggle at [https://www.kaggle.com/dat
 Is there a relationship between video game user/critic ratings and based on this should their reviews determine whether a game is worth purchasing or not?
 
 ## Machine Learning Model
-I will be using a linear regression model in order to see if there is a relationship and I will be trying PCA, joining and using scikit-learns StandardScaler module to clean my data inorder to make it usable for the analysis.
+I will be using a linear regression model in order to see if there is a relationship.
