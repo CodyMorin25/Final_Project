@@ -10,7 +10,7 @@ Selected this topic because as a video gamer there are many factors that determi
 The data is from a .csv file abtained from kaggle at [https://www.kaggle.com/datasets/deepcontractor/top-video-games-19952021-metacritic](https://www.kaggle.com/datasets/destring/metacritic-reviewed-games-since-2000) with games, their releases, platform, user review ratings and metacritic review ratings. 
 
 ### Question to answer
-Is there a relationship between video game user/critic ratings?
+Is there a relationship between video game user/critic ratings and based on this should their reviews determine whether a game is worth purchasing or not?
 
 ## Machine Learning Model
 I will be using a linear regression model in order to see if there is a relationship and I will be trying PCA, joining and using scikit-learns StandardScaler module to clean my data inorder to make it usable for the analysis.
