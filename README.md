@@ -10,7 +10,7 @@ Selected this topic because as a video gamer there are many factors that determi
 The data is from a .csv file abtained from kaggle at [https://www.kaggle.com/datasets/deepcontractor/top-video-games-19952021-metacritic](https://www.kaggle.com/datasets/destring/metacritic-reviewed-games-since-2000) with games, their releases, platform, user review ratings and metacritic review ratings. 
 
 ### Question to answer
-Is there a relationship between video game user/critic ratings and based on this should their reviews determine whether a game is worth purchasing or not?
+Is there a relationship between video game user/critic ratings?
 
 ## Explore Data
 Looked at dataset by seeing if there are potential issues with the dataset. I seen that metascore had values from 0-100 and userscore had 0-10. Will alter the userscore values to better match metascore. After trying to see the count, mean, min, max, etc. for the dataset I saw that it only showed the metascore and not the userscore. I came to find that in the dataset where values 'tbd'. When I go to clean the data I will need to remove those values and change the data type due to its type being 'object' when I need it to be an interger type. Also took a look to see if there were any outliers. I created boxplots of the data and they both showed outliers at the lower values.
