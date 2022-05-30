@@ -1,5 +1,8 @@
 # Video_Games-ReviewsVSCopies_Sold
 
+#### Google Slides
+https://docs.google.com/presentation/d/1PYr4flXaCb-HIgzVWcJvHG2INmE7pAxXoLhhh8ACIvA/edit?usp=sharing
+
 ### Selected Topic
 See if there is a relationship between how a paid critic rates a game and how a user who bought the game rates the game
 
