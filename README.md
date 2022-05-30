@@ -23,3 +23,6 @@ Imported CSV file to Jupyter Notebook in order to clean the data. Dropped the co
 After uploading the clean dataset to Jupyter Notebook I plotted it to a matplotlib scatter plot to get an idea of what I am looking at. My features from the dataset are 'metascore' and 'userscore'. I made the 'metascore' values my x_data and the 'userscore' values as my y_data. After creating the plot I looked at my data using seaborn to give me more visuales to analyze the data. I used sns.jointplot, sns.jointplot with the kind as 'hex' and sns.pairplot.
 Next I did my model by setting my X and y values to pluge into a model I set equal to LinearRegression. Then I fit and predicted the data inorder to plot my data to a scatterplot using matplotlib.
 I also used another method for LinearRegression to see if the outcome repeated. I used x_min, x_max, y_min, and y_max for the method.
+
+## Results
+After using linear regression the model shows that there is no real difference between critic reviews and user reviews. That using the ciritics review you could predict what the user predicted. The correlation coefficient = 0.59943999 and shows that there is a moderate positive relationship between the two reviews.
