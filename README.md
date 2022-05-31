@@ -28,4 +28,8 @@ Next I did my model by setting my X and y values to pluge into a model I set equ
 I also used another method for LinearRegression to see if the outcome repeated. I used x_min, x_max, y_min, and y_max for the method.
 
 ## Results
-After using linear regression the model shows that there is no real difference between critic reviews and user reviews. That using the ciritics review you could predict what the user would review. The correlation coefficient = 0.59943999 for the initial linear regression model  and shows that there is a moderate positive relationship between the two reviews. The correlation coefficient = 0.59309261 for the predicted linear regression model and also show a moderate positive relationship.
+After using linear regression the model shows that there is no real difference between critic reviews and user reviews. That using the ciritics review you could predict what the user would review. The correlation coefficient = 0.59943999 for the initial linear regression model  and shows that there is a moderate positive relationship between the two reviews. The correlation coefficient = 0.59309261 for the predicted linear regression model and also show a moderate positive relationship. Lastly the R-Squared value equaled 0.30901127392540895 which isn't all that great.
+
+
+# Future Analysis
+After the results it would seem that maybe to help the model would to have more features by finding a dataset with more columns or one with a column with video game names inorder to merge them.
