@@ -7,7 +7,7 @@ https://docs.google.com/presentation/d/1PYr4flXaCb-HIgzVWcJvHG2INmE7pAxXoLhhh8AC
 See if there is a relationship between how a paid critic rates a game and how a user who bought the game rates the game
 
 ### Reason
-Selected this topic because as a video gamer there are many factors that determines if a video game will be good or bad. It can be because of who made the game, how long the development was, all of the teasers released to increases hype, the genre of the game, what platforms it is available on , etc. Pridicting whether a game is  any good to begin with is very diffucult but with this analysis I hope to see if there is a relationship with a critics review vs a users review.
+Selected this topic because as a video gamer there are many factors that determines if a video game will be good or bad. It can be because of who made the game, how long the development was, all of the teasers released to increases hype, the genre of the game, what platforms it is available on , etc. Pridicting whether a game is  any good to begin with is very diffucult and as a gamer I tend to look at reviews first to get an idea about how good a game is. I tend to mainly look for reviews from users who have bought the game. With this analysis I hope to see if there is a relationship between a critics review vs a users review.
 
 ### Data Source
 The data is from a .csv file abtained from kaggle at [https://www.kaggle.com/datasets/deepcontractor/top-video-games-19952021-metacritic](https://www.kaggle.com/datasets/destring/metacritic-reviewed-games-since-2000) with games, their releases, platform, user review ratings and metacritic review ratings. 
