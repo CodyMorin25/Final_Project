@@ -32,4 +32,4 @@ After using linear regression the model shows that there is no real difference b
 
 
 # Future Analysis
-After the results it would seem that maybe to help the model would to have more features by finding a dataset with more columns or one with a column with video game names inorder to merge them.
+After the results it would seem that maybe to help the model would to have more features by finding a dataset with more columns or one with a column with video game names inorder to merge them. Also could try a different model in addition.
